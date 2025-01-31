@@ -32,9 +32,9 @@ At **QUICK GCP LAB**, we aim to make mastering Google Cloud easier and more acce
 
 ## Why QUICK GCP LAB?
 
-🌟 We provide free **Google Cloud Skills Boost Credits** at **no-cost** and occasionally offer **monthly subscriptions** when available.
-✔️ We ensure learners get the best cloud learning experience with hands-on opportunities and the most relevant content.
-✔️ The latest updates on Google Cloud services and certifications.  
+🌟 We provide **free Google Cloud Skills Boost Credits** at **no-cost** and occasionally offer **monthly subscriptions** when available.  
+✔️ We ensure learners receive the best cloud learning experience with **hands-on opportunities** and the most relevant content.  
+✔️ Get the **latest updates on Google Cloud services** and certifications.  
 ✔️ A strong community to support learners and professionals.  
 ✔️ Step-by-step guidance for using **Google Cloud Shell** to execute labs.
 
