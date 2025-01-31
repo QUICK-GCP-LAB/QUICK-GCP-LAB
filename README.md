@@ -4,31 +4,26 @@ Welcome to **QUICK GCP LAB**! 🌥️
 
 At **QUICK GCP LAB**, we aim to make mastering Google Cloud easier and more accessible. Whether you're just starting or enhancing your skills, our platform provides you with hands-on experience, **step-by-step guides**, and **practical solutions**. Join us on a journey where you’ll gain deep knowledge of Google Cloud Platform (GCP) through structured tutorials and **Google Cloud Shell** labs. Let’s make cloud learning simpler, faster, and more engaging!
 
-## About  
-QUICK GCP LAB is founded and managed by **MD SOHRAB**, a passionate cloud computing enthusiast. His goal is to simplify the learning journey for those wanting to master Google Cloud Platform (GCP). 🚀 We offer **step-by-step guides**, **practical solutions**, **hands-on labs**, and **using Google Cloud Shell** to help you succeed in your cloud journey.
-
 ## Platforms  
 
 ### 📂 **GitHub Repository**  
-🔗 Explore our GitHub and find solutions for Google Cloud Labs:  
+ Explore our GitHub and find solutions for Google Cloud Labs:  
 [➡ **Explore our GitHub**](https://github.com/QUICK-GCP-LAB)  
 
 ### 💬 **Telegram Community**  
-🔗 Join the conversation and get support for certifications:  
-[➡ **Join Telegram Channel**](https://t.me/quickgcplab)  
-[➡ **Join QUICK GCP LAB Chats**](https://t.me/quickgcplabchats)
+- Join the conversation and get support for certifications on [**Telegram Channel**](https://t.me/quickgcplab) & [**QUICK GCP LAB Chats**](https://t.me/quickgcplabchats)
 
 ### 📺 **YouTube Channel**  
-🔗 Explore our tutorials and content on [➡ **YouTube**](https://www.youtube.com/@quickgcplab)
+- Explore our tutorials and content on [➡ **YouTube**](https://www.youtube.com/@quickgcplab)
 
 ### 💼 **LinkedIn**  
-🔗 Connect with us on [➡ **LinkedIn**](http://linkedin.com/in/md-sohrab)
+- Connect with us on [➡ **LinkedIn**](http://linkedin.com/in/md-sohrab)
 
 ### 📱 **Instagram**  
-🔗 Follow us on [➡ **Instagram**](https://www.instagram.com/sohrab.quickgcplab)
+- Follow us on [➡ **Instagram**](https://www.instagram.com/sohrab.quickgcplab)
 
 ### 📘 **Facebook**  
-🔗 Connect with us on [➡ **Facebook**](https://www.facebook.com/sohrab80)
+- Connect with us on [➡ **Facebook**](https://www.facebook.com/sohrab80)
 
 ## Why QUICK GCP LAB?  
 ✔️ Practical learning environment for hands-on experience.  
@@ -38,6 +33,12 @@ QUICK GCP LAB is founded and managed by **MD SOHRAB**, a passionate cloud comput
 
 ## 📢 Stay Connected  
 For **daily tips**, **cloud insights**, and **exclusive content**, follow us across these platforms. Feel free to contribute or ask any questions! 📲
+
+---
+
+## About  
+QUICK GCP LAB is founded and managed by **MD SOHRAB**, a passionate cloud computing enthusiast. His goal is to simplify the learning journey for those wanting to master Google Cloud Platform (GCP). 🚀 We offer **step-by-step guides**, **practical solutions**, **hands-on labs**, and **using Google Cloud Shell** to help you succeed in your cloud journey.
+ 
 
 ---
 
