@@ -10,6 +10,10 @@ At **QUICK GCP LAB**, we aim to make mastering Google Cloud easier and more acce
 
 - Explore our [GitHub](https://github.com/QUICK-GCP-LAB) and find solutions for Google Cloud Labs
 
+### 🟢 **WhatsApp**
+
+- Join our WhatsApp Community for real-time discussions and updates [➡ **WhatsApp**](https://chat.whatsapp.com/ECJ9h8GA3CA1ksaI9m5NrX)
+
 ### 💬 **Telegram Community**
 
 - Join the conversation and get support for **updates** and all your **queries** on [**Telegram Channel**](https://t.me/quickgcplab) & [**QUICK GCP LAB Chats**](https://t.me/quickgcplabchats)
@@ -29,10 +33,6 @@ At **QUICK GCP LAB**, we aim to make mastering Google Cloud easier and more acce
 ### 📘 **Facebook**
 
 - Connect with us on [➡ **Facebook**](https://www.facebook.com/sohrab80)
-
-### 🟢 **WhatsApp**
-
-- WhatsApp Community [➡ **WhatsApp**](https://chat.whatsapp.com/ECJ9h8GA3CA1ksaI9m5NrX)
  
 
 ## Why QUICK GCP LAB?
