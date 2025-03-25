@@ -16,7 +16,7 @@ At **QUICK GCP LAB**, we aim to make mastering Google Cloud easier and more acce
 
 ### 💬 **Telegram Community**
 
-- Join the conversation and get support for **updates** and all your **queries** on [**Telegram Channel**](https://t.me/quickgcplab) & [**QUICK GCP LAB Chats**](https://t.me/quickgcplabchats)
+- Join the conversation and get support for **updates** and all your **queries** on [**Telegram Channel**](https://t.me/quickgcplab) & [**Chats Group**](https://t.me/quickgcplabchats)
 
 ### 📺 **YouTube Channel**
 
