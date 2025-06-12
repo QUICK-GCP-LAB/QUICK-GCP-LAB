@@ -21,18 +21,6 @@ At **QUICK GCP LAB**, we aim to make mastering Google Cloud easier and more acce
 ### 📺 **YouTube Channel**
 
 - Explore our tutorials and content on [➡ **YouTube**](https://www.youtube.com/@quickgcplab)
-
-### 💼 **LinkedIn**
-
-- Connect with us on [➡ **LinkedIn**](http://linkedin.com/in/md-sohrab)
-
-### 📱 **Instagram**
-
-- Follow us on [➡ **Instagram**](https://www.instagram.com/sohrab.quickgcplab)
-
-### 📘 **Facebook**
-
-- Connect with us on [➡ **Facebook**](https://www.facebook.com/sohrab80)
  
 
 ## Why QUICK GCP LAB?
