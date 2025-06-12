@@ -49,13 +49,6 @@ For **daily tips**, **cloud insights**, and **exclusive content**, follow us acr
 
 ---
 
-## About
-
-QUICK GCP LAB is founded and managed by **MD SOHRAB**, a passionate cloud computing enthusiast. His goal is to simplify the learning journey for those wanting to master Google Cloud Platform (GCP). 🚀 We offer **step-by-step guides**, **practical solutions**, **hands-on labs**, and **using Google Cloud Shell** to help you succeed in your cloud journey.
- 
-
----
-
 ### Disclaimer:
 
 The resources provided on this GitHub are for educational purposes only. They demonstrate how to use GitHub scripts for solving Google Cloud Labs. The content aims to help learners understand and apply key concepts. We encourage you to open and review the scripts to understand each step. We do not promote or encourage any misuse or cheating to bypass the learning process.
